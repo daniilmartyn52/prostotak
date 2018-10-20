@@ -1,0 +1,22 @@
+header{
+    background:green
+}
+main{
+    background:red
+}
+footer{
+    background:blue
+}
+article{
+    background:orange
+}
+aside{
+    background:yellow
+}
+section{
+    background:pink
+}
+.footer-col{width: 24%;
+float: right;
+border: lpx solid black;
+}
